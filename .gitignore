@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment:
+env/
+venv/
+ENV/
+VENV/
+
+
+# Static and media files (optional if you generate them dynamically):
+/staticfiles/
+/mediafiles/
+
+# Local settings file (if you have a local settings file):
+local_settings.py
+
+# Migrations:
+*/migrations/*
+
+# Secrets and keys
+.env
+*.env
+
+# IDE files:
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Thumbnails and other generated image files
+*.thumb
