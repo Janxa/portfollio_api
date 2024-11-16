@@ -18,7 +18,7 @@ venv/
 ENV/
 VENV/
 
-
+pyvenv.cfg
 # Static and media files (optional if you generate them dynamically):
 /staticfiles/
 /mediafiles/
